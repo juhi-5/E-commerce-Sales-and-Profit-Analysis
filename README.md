@@ -17,5 +17,5 @@ How to Run
 3. Explore insights using interactive plots
 
 Files
-- "Project_notebook.ipynb": The main analysis and visualizations
+- "E-commerce_sales_profit_analysis.ipynb": The main analysis and visualizations
 - "Sample - Superstore.csv": Dataset used (included)
